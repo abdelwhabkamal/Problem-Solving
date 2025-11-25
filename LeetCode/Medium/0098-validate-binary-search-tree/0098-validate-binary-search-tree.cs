@@ -13,16 +13,22 @@
  */
 public class Solution {
     public bool IsValidBST(TreeNode root) {
-        return DFS(root, long.MinValue, long.MaxValue);
+        List<long> list = new();
+        Inorder(root, list);
+
+        for (int i = 1; i < list.Count; i++)
+        {
+            if (list[i] <= list[i - 1])
+                return false;
+        }
+
+        return true;
     }
-
-    private bool DFS(TreeNode node, long min, long max) {
-        if (node == null) return true;
-
-        if (node.val <= min || node.val >= max)
-            return false;
-
-        return DFS(node.left, min, node.val) &&
-               DFS(node.right, node.val, max);
+    private void Inorder(TreeNode root, List<long> list)
+    {
+        if (root == null) return;
+        Inorder(root.left, list);
+        list.Add(root.val);
+        Inorder(root.right, list);
     }
 }
