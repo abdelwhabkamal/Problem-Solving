@@ -12,23 +12,25 @@
  * }
  */
 public class Solution {
-    public bool IsValidBST(TreeNode root) {
-        List<long> list = new();
-        Inorder(root, list);
 
-        for (int i = 1; i < list.Count; i++)
-        {
-            if (list[i] <= list[i - 1])
-                return false;
-        }
+    long prev = long.MinValue;
 
-        return true;
-    }
-    private void Inorder(TreeNode root, List<long> list)
+    public bool IsValidBST(TreeNode root) 
     {
-        if (root == null) return;
-        Inorder(root.left, list);
-        list.Add(root.val);
-        Inorder(root.right, list);
+        return Inorder(root);
     }
+
+    private bool Inorder(TreeNode root)
+    {
+        if (root == null) return true;
+
+        if (!Inorder(root.left)) return false;
+
+        if (root.val <= prev) return false;
+
+        prev = root.val;
+
+        return Inorder(root.right);
+    }
+
 }
