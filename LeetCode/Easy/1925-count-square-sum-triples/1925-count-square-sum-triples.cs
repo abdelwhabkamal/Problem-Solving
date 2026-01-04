@@ -3,12 +3,9 @@ public class Solution {
         int ans =0;
         for(int a=3;a<=n;a++){
             for(int b=a+1;b<=n;b++){
-                int ab=a*a+b*b;
-                for(int c=Math.Max(a,b);c<=n;c++){
-                    if(ab < c*c) break;
-                    if(ab == c*c){
-                        ans+=2;
-                    } 
+                int c = (int)Math.Sqrt(a * a + b * b + 1.0);
+                if (c <= n && c * c == a * a + b * b) {
+                    ans+=2;
                 }
             }
         }
