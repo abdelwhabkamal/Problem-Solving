@@ -1,11 +1,11 @@
 public class MyHashSet {
-    List<int> set = new();
+    HashSet<int> set = new();
     public MyHashSet() {
-        set=new List<int>();
+        set=new HashSet<int>();
     }
     
     public void Add(int key) {
-        if(!set.Contains(key)) set.Add(key);
+        set.Add(key);
     }
     
     public void Remove(int key) {
