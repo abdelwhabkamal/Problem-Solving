@@ -1,19 +1,22 @@
 public class MyHashSet {
-    int[] arr; 
+    Dictionary<int, int> set;
     public MyHashSet() {
-        arr =  new int[1000001]; 
+        set = new();
     }
     
     public void Add(int key) {
-        arr[key] = 1; 
+        if(!set.ContainsKey(key)){
+            set[key] = 0;
+        }
     }
     
     public void Remove(int key) {
-        arr[key] = 0; 
-        
+        set.Remove(key);
     }
     
-    public bool Contains(int key)=> arr[key] == 1 ? true: false;
+    public bool Contains(int key) {
+        return set.ContainsKey(key);
+    }
 }
 
 /**
