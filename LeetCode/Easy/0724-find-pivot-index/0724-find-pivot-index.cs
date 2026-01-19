@@ -1,8 +1,6 @@
 public class Solution {
     public int PivotIndex(int[] nums) 
     {
-        if (nums == null || nums.Length == 0) return -1;
-
         int total =  0;
         foreach(int n in nums)
             total = total + n;
