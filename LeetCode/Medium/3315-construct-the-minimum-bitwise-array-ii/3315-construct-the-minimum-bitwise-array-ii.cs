@@ -1,23 +1,15 @@
 public class Solution {
     public int[] MinBitwiseArray(IList<int> nums) {
-    int[] res = new int[nums.Count];
-    for(int i = 0; i < nums.Count; i++)
-    {
-        if (nums[i] == 2)
-        {
-            res[i] = -1;
-            continue;
+        for (int i = 0; i < nums.Count; i++) {
+            int x = nums[i];
+            int res = -1;
+            int d = 1;
+            while ((x & d) != 0) {
+                res = x - d;
+                d <<= 1;
+            }
+            nums[i] = res;
         }
-
-        int temp = nums[i];
-        int pow = -1;
-        while(temp > 0 && (temp & 1) == 1)
-        {
-            temp >>= 1;
-            pow++;
-        }
-        res[i] = nums[i] - (int)Math.Pow(2, pow);
-    }
-    return res;
+        return nums.ToArray();
     }
 }
