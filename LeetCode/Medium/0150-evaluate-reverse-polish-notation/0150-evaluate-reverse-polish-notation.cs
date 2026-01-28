@@ -7,26 +7,15 @@ public class Solution {
             if(t != "+" && t != "-" && t != "*" && t != "/"){
                 stack.Push(int.Parse(t));
             }else{
-                if( t == "+"){
-                    val1=stack.Pop();
-                    val2=stack.Pop();
-                    stack.Push(val1+val2);
+                val1=stack.Pop();
+                val2=stack.Pop();
+                switch(t){
+                    case "+": stack.Push(val1+val2); break;
+                    case "-": stack.Push(val2-val1); break;
+                    case "*": stack.Push(val1*val2); break;
+                    case "/": stack.Push(val2/val1); break;
                 }
-                else if( t == "-"){
-                    val1=stack.Pop();
-                    val2=stack.Pop();
-                    stack.Push(val2-val1);
-                }
-                else if( t == "*"){
-                    val1=stack.Pop();
-                    val2=stack.Pop();
-                    stack.Push(val1*val2);
-                }
-                else{
-                    val1=stack.Pop();
-                    val2=stack.Pop();
-                    stack.Push(val2/val1);
-                }
+                    
             }
         }
         return stack.Pop();
