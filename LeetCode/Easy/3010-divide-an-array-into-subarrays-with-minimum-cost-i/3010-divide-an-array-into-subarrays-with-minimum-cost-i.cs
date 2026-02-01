@@ -1,10 +1,16 @@
-public class Solution {
-    public int MinimumCost(int[] nums) {
-        int t=nums[0];
-        Array.Sort(nums);
-        if(nums[0] != t && nums[1] != t)
-            return nums[0]+nums[1]+t;
-        else
-            return nums[0]+nums[1]+nums[2];
+public class Solution
+{
+    public int MinimumCost(int[] nums)
+    {
+        int f = int.MaxValue;
+        int s = int.MaxValue;
+
+        foreach (var num in nums.Skip(1))
+        {
+            s = Math.Min(s, Math.Max(f, num));
+            f = Math.Min(f, num);
+        }
+
+        return nums[0] + f + s;
     }
 }
