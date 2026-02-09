@@ -1,23 +1,39 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     public int val;
+ *     public TreeNode left;
+ *     public TreeNode right;
+ *     public TreeNode(int val=0, TreeNode left=null, TreeNode right=null) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 public class Solution {
     public TreeNode BalanceBST(TreeNode root) {
-        SortedSet<int> set = new();
-        Traverse(root);
-        int[] sortedArr = set.ToArray();
-        return Balance(0, set.Count - 1);
+        List<int> values = new List<int>();
+        Inorder(root, values);
+        return BST(values, 0, values.Count - 1);
+    }
+     private void Inorder(TreeNode node, List<int> values) {
+        if (node == null) return;
+        Inorder(node.left, values);
+        values.Add(node.val);
+        Inorder(node.right, values);
+    }
 
-        void Traverse(TreeNode node) {
-            if(node == null) return;
-            set.Add(node.val);
-            Traverse(node.right);
-            Traverse(node.left);
-        }
+    private TreeNode BST(List<int> values, int left, int right) {
+        if (left > right)
+            return null;
 
-        TreeNode Balance(int i, int j) {
-            if (i > j) return null;
-            int mid = i + (j - i) / 2;
+        int mid = left + (right - left) / 2;
+        TreeNode root = new TreeNode(values[mid]);
 
-            return new TreeNode(sortedArr[mid], Balance(i, mid - 1),
-                Balance(mid + 1, j));
-        }
+        root.left = BST(values, left, mid - 1);
+        root.right = BST(values, mid + 1, right);
+
+        return root;
     }
 }
