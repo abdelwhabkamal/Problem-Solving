@@ -1,10 +1,23 @@
-public class Solution
-{
-    public IList<string> ReadBinaryWatch(int turnedOn) =>
-    [..
-        from h in Enumerable.Range(0, 12)
-        from m in Enumerable.Range(0, 60)
-        where int.PopCount(h << 6 | m) == turnedOn
-        select $"{h}:{m:d2}"
-    ];
+public class Solution {
+    public IList<string> ReadBinaryWatch(int turnedOn)
+    {
+        if (turnedOn >= 9)
+        {
+            return [];
+        }
+
+        var res = new List<string>();
+        for (var h = 0; h < 12; h++)
+        {
+            for (var m = 0; m < 60; m++)
+            {
+                if (BitOperations.PopCount((uint)h) + BitOperations.PopCount((uint)m) == turnedOn)
+                {
+                    res.Add(h.ToString() + ':' + m.ToString("00"));
+                }
+            }
+        }
+
+        return res;
+    }
 }
