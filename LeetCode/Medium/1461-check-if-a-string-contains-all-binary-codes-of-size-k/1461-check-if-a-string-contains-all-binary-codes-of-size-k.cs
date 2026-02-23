@@ -1,13 +1,26 @@
 public class Solution {
     public bool HasAllCodes(string s, int k) {
-        int target = (1<<k);
-        int count = 0;
-        Dictionary<string,bool> map = new();
-        for(int i = 0; i < s.Length-k+1; i++)
-        {
-            string str = s.Substring(i,k);
-            map.TryAdd(str, true);   
+    int totalNeeded = 1 << k; 
+    if (s.Length < k + totalNeeded - 1) return false;
+
+    bool[] found = new bool[totalNeeded];
+    int count = 0;
+    int currentNum = 0;
+    
+    int mask = totalNeeded - 1;
+
+    for (int i = 0; i < s.Length; i++) {
+        currentNum = ((currentNum << 1) & mask) | (s[i] - '0');
+
+        if (i >= k - 1) {
+            if (!found[currentNum]) {
+                found[currentNum] = true;
+                count++;
+                if (count == totalNeeded) return true;
+            }
         }
-        return target == map.Count;
     }
+
+    return count == totalNeeded;
+}
 }
