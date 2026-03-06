@@ -1,5 +1,3 @@
 public class Solution {
-    public bool CheckOnesSegment(string s) {
-        return !s.Contains("01");
-    }
+    public bool CheckOnesSegment(string s)=>!s.Contains("01");
 }
