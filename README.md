@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -135,5 +136,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
