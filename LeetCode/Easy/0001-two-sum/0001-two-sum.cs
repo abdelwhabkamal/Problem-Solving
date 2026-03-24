@@ -1,5 +1,6 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
+        if (nums.Length == 2) { return [0, 1]; }
         Dictionary<int,int> indx=new();
         for(int i=0;i<nums.Length;i++){
             if(indx.ContainsKey(target-nums[i])){
