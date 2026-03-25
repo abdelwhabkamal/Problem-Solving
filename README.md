@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -68,11 +69,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
