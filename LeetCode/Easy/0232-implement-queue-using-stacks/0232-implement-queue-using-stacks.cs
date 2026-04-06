@@ -1,27 +1,35 @@
 public class MyQueue {
-    List<int> queue=new();
-    
-    public MyQueue() {
-        queue= new List<int>();    
-    }
 
+    private Stack<int> inputStack;
+    private Stack<int> outputStack;
+
+    public MyQueue() {
+        inputStack = new Stack<int>();
+        outputStack = new Stack<int>();
+    }
+    
     public void Push(int x) {
-        queue.Add(x);    
+        while(outputStack.Count > 0) {
+            inputStack.Push(outputStack.Pop());
+        }
+        
+        inputStack.Push(x);
+        
+        while(inputStack.Count > 0) {
+            outputStack.Push(inputStack.Pop());
+        }
     }
     
     public int Pop() {
-        int pop =queue[0];
-        queue.RemoveAt(0);
-        return pop;
+        return outputStack.Pop();
     }
     
     public int Peek() {
-        return queue[0];
+        return outputStack.Peek();
     }
     
     public bool Empty() {
-        if(queue.Count>0) return false;
-        return true;
+        return outputStack.Count == 0;
     }
 }
 
