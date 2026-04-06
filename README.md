@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -199,9 +200,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
