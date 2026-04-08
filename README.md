@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
