@@ -19,10 +19,9 @@ public class Solution {
         queue.Enqueue(root);
         while(queue.Count>0){
             int level = queue.Count;
-            TreeNode curr = new();
             int val=0;
             for(int i = 0 ; i < level; i++){
-                curr = queue.Dequeue();
+                TreeNode curr = queue.Dequeue();
                 val = curr.val;
                 if(curr.left != null ) queue.Enqueue(curr.left);
                 if(curr.right != null ) queue.Enqueue(curr.right);
