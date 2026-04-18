@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
