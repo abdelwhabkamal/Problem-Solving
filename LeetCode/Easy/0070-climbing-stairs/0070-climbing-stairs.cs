@@ -1,12 +1,14 @@
 public class Solution {
     public int ClimbStairs(int n) {
         if(n <= 2) return n;
-        int[] dp = new int[n];
-        dp[0] = 1;
-        dp[1] = 2;
+        int val1 = 1;
+        int val2 = 2;
+        int ans = 0;
         for(int i = 2; i < n; i++){
-            dp[i] = dp[i - 1] + dp[i - 2];
+            ans = val1 + val2;
+            val1 = val2;
+            val2 = ans;
         }
-        return dp[n - 1];
+        return ans;
     }
 }
