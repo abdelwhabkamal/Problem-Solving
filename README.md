@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -279,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
