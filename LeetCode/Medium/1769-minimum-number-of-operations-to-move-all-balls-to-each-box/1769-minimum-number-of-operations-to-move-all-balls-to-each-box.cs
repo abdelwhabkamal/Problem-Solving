@@ -1,11 +1,16 @@
 public class Solution {
     public int[] MinOperations(string boxes) {
-        int[] ans=new int[boxes.Length];
-        for(int i=0;i<boxes.Length;i++){
-            for(int j=0;j<boxes.Length;j++){
-                if(boxes[j]=='1') ans[i]+=Math.Abs(i-j);
+        int n = boxes.Length;
+        int[] res = new int[n];
+        List<int> ones = new();
+        for(int i = 0; i < n; i++){
+            if(boxes[i] == '1') ones.Add(i);
+        }
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < ones.Count; j++){
+                res[i] += Math.Abs(i - ones[j]);
             }
         }
-        return ans;
+        return res;
     }
 }
