@@ -1,15 +1,22 @@
 public class Solution {
     public int[] LeftRightDifference(int[] nums) {
         int n = nums.Length;
-        int[] left = new int[n];
-        int[] right = new int[n];
-        for(int i = 1; i < n; i++){
-            left[i] = left[i-1] + nums[i-1];
-            right[n-i-1] = right[n-i] + nums[n-i];
+        int[] leftSum = new int[n];
+        int[] rightSum = new int[n];
+        int[] newSum = new int[n];
+
+        for (int i = 1; i < n; i++) {
+            leftSum[i] = leftSum[i - 1] + nums[i - 1];
         }
-        for(int i = 0; i < n; i++){
-            nums[i] = Math.Abs(left[i] - right[i]);
+
+        for (int j = n - 2; j >= 0; j--) {
+            rightSum[j] = rightSum[j + 1] + nums[j + 1];
         }
-        return nums;
+
+        for (int k = 0; k < n; k++) {
+            newSum[k] = Math.Abs(leftSum[k] - rightSum[k]);
+        }
+
+        return newSum;
     }
 }
