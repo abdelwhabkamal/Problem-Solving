@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -317,4 +320,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
