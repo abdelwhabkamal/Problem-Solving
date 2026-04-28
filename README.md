@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
