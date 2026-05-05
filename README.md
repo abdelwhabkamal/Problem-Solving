@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
