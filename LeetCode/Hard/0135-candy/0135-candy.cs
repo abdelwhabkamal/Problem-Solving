@@ -15,7 +15,7 @@ public class Solution {
             if(ratings[i-1] > ratings[i]){
                 candies[i-1] = Math.Max(candies[i] + 1 , candies[i-1]);
             }
-            sum += candies[i];
+            sum += candies[i-1];
         }
 
         return sum;
