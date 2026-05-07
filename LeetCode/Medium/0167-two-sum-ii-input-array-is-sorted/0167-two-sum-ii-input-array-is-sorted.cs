@@ -1,11 +1,13 @@
 public class Solution {
     public int[] TwoSum(int[] numbers, int target) {
-        int l=0;
-        int r=numbers.Length-1;
-        for(int i=0;i<numbers.Length;i++){
-            if(numbers[l]+numbers[r]==target)return [l+1,r+1];
-            else if(numbers[l]+numbers[r]>target) r--;
-            else if(numbers[l]+numbers[r]<target) l++;
+        int l = 0;
+        int n = numbers.Length;
+        int r = n - 1;
+        while(l <= r){
+            int sum = numbers[l] + numbers[r];
+            if(sum == target) return [l+1 , r+1];
+            else if(sum < target) l++;
+            else r--;
         }
         return [-1,-1];
     }
