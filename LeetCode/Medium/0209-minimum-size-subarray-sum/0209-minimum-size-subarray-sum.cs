@@ -1,17 +1,16 @@
 public class Solution {
     public int MinSubArrayLen(int target, int[] nums) {
-        int start = 0, currSum = 0;
-        int minSize = int.MaxValue;
-
-        for (int i = 0; i < nums.Length; i++) {
-            currSum += nums[i];
-
-            while (currSum >= target) {
-                minSize = Math.Min(minSize, i - start + 1);
-                currSum -= nums[start];
-                start++;
+        int left = 0, sum = 0;
+        int min = int.MaxValue;
+        
+        for(int i = 0; i < nums.Length; i++){
+            sum += nums[i];
+            while( sum >= target){
+                min = Math.Min(min , i - left + 1);
+                sum -= nums[left];
+                left++;
             }
         }
-        return minSize == int.MaxValue ? 0 : minSize;
+        return min != int.MaxValue ? min : 0;
     }
 }
