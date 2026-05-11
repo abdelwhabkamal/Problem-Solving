@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
