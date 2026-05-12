@@ -1,11 +1,11 @@
 public class Solution {
     public bool IsIsomorphic(string s, string t) {
-        Dictionary<char,char> map = new();
+        int[] map_s = new int[256]; 
+        int[] map_t = new int[256]; 
         for(int i = 0; i< s.Length; i++){
-            if(!map.ContainsKey(s[i]) && !map.ContainsValue(t[i])) map[s[i]] = t[i];
-            else{
-                if(!map.ContainsKey(s[i]) || map[s[i]] != t[i]) return false;
-            }
+            if(map_s[s[i]] != map_t[t[i]]) return false;
+            map_s[s[i]] = i+1;
+            map_t[t[i]] = i+1;
         }
         return true;
     }
