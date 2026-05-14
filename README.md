@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -373,4 +377,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
