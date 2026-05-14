@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
