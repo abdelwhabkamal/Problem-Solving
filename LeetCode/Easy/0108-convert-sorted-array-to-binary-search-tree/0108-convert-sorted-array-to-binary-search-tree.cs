@@ -13,11 +13,14 @@
  */
 public class Solution {
     public TreeNode SortedArrayToBST(int[] nums) {
-        if(nums.Length <= 0) return null;
-        int mid = nums.Length / 2;
+        return BST(nums , 0 , nums.Length - 1);
+    }
+    TreeNode BST(int[] nums, int l, int r){
+        if(r < l) return null;
+        int mid = l + (r - l) / 2;
         TreeNode tree = new(nums[mid]);
-        tree.right = SortedArrayToBST(nums[(mid + 1)..]);
-        tree.left = SortedArrayToBST(nums[..mid]);
+        tree.right = BST(nums , mid + 1, r);
+        tree.left = BST(nums, l , mid - 1);
         return tree;
     }
 }
