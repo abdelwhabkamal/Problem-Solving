@@ -1,15 +1,11 @@
 public class Solution {
-    HashSet<int> visited = new();
     public bool CanReach(int[] arr, int start) {
+        bool[] visited = new bool[arr.Length];
         bool DFS(int i){
-            if(i < 0 || i >= arr.Length) return false;
+            if(i < 0 || i >= arr.Length || visited[i]) return false;
             if(arr[i] == 0) return true;
-            visited.Add(i);
-            int left = i - arr[i];
-            int right = i + arr[i];
-            if(!visited.Contains(left) && DFS(left)) return true;
-            if(!visited.Contains(right) && DFS(right)) return true;
-            return false;
+            visited[i] = true;
+            return DFS(i + arr[i]) || DFS( i - arr[i]);
         }
         return DFS(start);
     }
