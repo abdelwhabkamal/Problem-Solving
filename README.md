@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
