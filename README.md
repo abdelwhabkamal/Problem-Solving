@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Backtracking
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Heap (Priority Queue)
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
