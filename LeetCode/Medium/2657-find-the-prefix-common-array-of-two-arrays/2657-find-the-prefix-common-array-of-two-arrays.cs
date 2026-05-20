@@ -1,18 +1,30 @@
 public class Solution {
     public int[] FindThePrefixCommonArray(int[] A, int[] B) {
-        int n = A.Length;
-        int[] ans = new int[n];
+        int[] res = new int[A.Length];
 
-        HashSet<int> curA = new();
-        HashSet<int> curB= new();
+        int[] foundA = new int[A.Length + 1];
+        int[] foundB = new int[A.Length + 1];
+        int prevCount = 0;
 
-        for(int i = 0; i < n; i++ ){
-            curA.Add(A[i]);
-            curB.Add(B[i]);
-            var res = curA.Intersect(curB);
-            ans[i] = res.Count();
+        for (int i = 0; i < A.Length; i++)
+        {
+            if (A[i] == B[i])
+            {
+                prevCount++;
+            }
+            else
+            {
+                foundA[A[i]] = 1;
+                foundB[B[i]] = 1;
+
+                if (foundA[B[i]] == 1)
+                    prevCount++;
+                if (foundB[A[i]] == 1)
+                    prevCount++;
+            }
+            res[i] = prevCount;
         }
-        
-        return ans;
+
+        return res;
     }
 }
