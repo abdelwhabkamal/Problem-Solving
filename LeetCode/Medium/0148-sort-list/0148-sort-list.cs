@@ -10,70 +10,50 @@
  * }
  */
 public class Solution {
-    public ListNode SortList(ListNode head) 
-    {
-        return MergeSort(head);
-    }
-
-    ListNode MergeSort(ListNode linkedList)
-    {
-        if (linkedList?.next == null)
-        {
-            return linkedList;
+    public ListNode SortList(ListNode head) {
+        if(head == null || head.next == null) {
+            return head;
         }
 
-        var head = linkedList;
-        ListNode left = head;
-        ListNode right = head;    
+        ListNode mid = GetMid(head);
+        ListNode right = mid.next;
+        mid.next = null;
 
-        while (right.next?.next != null)
-        {
-            left = left.next;
-            right = right.next.next;       
+        ListNode l = SortList(head);
+        ListNode r = SortList(right);
+
+        return Merge(l,r);
+    }
+
+    public ListNode GetMid(ListNode node) {
+        ListNode slow = node;
+        ListNode fast = node.next;
+
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        right = left.next;
-        left.next = null;
-
-        right = MergeSort(right);
-        left = MergeSort(head);
-
-        return Merge(left, right);
+        return slow;
     }
-    ListNode Merge(ListNode left, ListNode right)
-    {
-        ListNode head = new ListNode();
-        var headNext = head; 
 
-        while (left != null && right != null)
-        {       
+    public ListNode Merge(ListNode left, ListNode right) {
+        ListNode dummy = new ListNode();
+        ListNode cur = dummy;        
 
-            if (left.val <= right.val)
-            {
-                headNext.next = left;
+        while(left != null && right !=null) {
+            if(left.val < right.val) {
+                cur.next = left;
                 left = left.next;
-            }
-            else
-            {
-                headNext.next = right;
+            } else {
+                cur.next = right;
                 right = right.next;
             }
-            headNext = headNext.next;       
+            cur = cur.next;
         }
 
-        while (left != null)
-        {
-            headNext.next = left;
-            headNext = headNext.next;
-            left = left.next;       
+        cur.next = left == null ? right : left;
 
-        }
-        while (right != null)
-        {
-            headNext.next = right;
-            headNext = headNext.next;
-            right = right.next;        
-        }    
-        return head.next;
+        return dummy.next;
     }
 }
