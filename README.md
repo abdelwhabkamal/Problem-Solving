@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0148-sort-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0148-sort-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -408,4 +411,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0148-sort-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
