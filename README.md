@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Two Pointers
