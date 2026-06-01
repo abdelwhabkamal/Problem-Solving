@@ -4,13 +4,9 @@ public class Solution {
         if(n <= 2) return cost.Sum();
         cost.Sort();
         int res = 0;
-        int c = 0;
-        for(int i = n-1; i >= 0; i--){
-            if(c == 2) c = 0;
-            else {
-                c++;
-                res += cost[i];
-            }
+        for(int i = n-1; i >= 0; i-=3){
+            res += cost[i];
+            if( i-1 >= 0) res += cost[i-1];
         }
         return res;
     }                        
