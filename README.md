@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
