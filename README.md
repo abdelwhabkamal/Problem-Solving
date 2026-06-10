@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
