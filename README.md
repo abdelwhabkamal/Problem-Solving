@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2363-merge-similar-items](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2363-merge-similar-items](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2682-find-the-losers-of-the-circular-game/) | Easy |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2363-merge-similar-items](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -483,4 +486,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
