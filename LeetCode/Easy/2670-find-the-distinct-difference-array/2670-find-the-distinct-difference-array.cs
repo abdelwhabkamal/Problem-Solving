@@ -12,13 +12,8 @@ public class Solution {
         int p = 0;
         int[] res = new int[nums.Length];
         for(int i = 0; i < nums.Length; i++){
-            if(pref[nums[i]] == 0){
-                p++;
-                pref[nums[i]]++;
-            }
-            else pref[nums[i]]++;
-            suff[nums[i]]--;
-            if(suff[nums[i]] == 0) s--;
+            if(pref[nums[i]]++ == 0) p++;
+            if(--suff[nums[i]] == 0) s--;
             res[i] = p - s;
         }
         return res;
