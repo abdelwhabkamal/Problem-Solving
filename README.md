@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-sum-of-variable-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
