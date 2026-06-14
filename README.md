@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0148-sort-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
