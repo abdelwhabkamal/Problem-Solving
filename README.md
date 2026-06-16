@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3110-score-of-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2682-find-the-losers-of-the-circular-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2717-semi-ordered-permutation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
