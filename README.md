@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
+| [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
