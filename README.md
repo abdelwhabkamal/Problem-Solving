@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2363-merge-similar-items](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2363-merge-similar-items/) | Easy |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
