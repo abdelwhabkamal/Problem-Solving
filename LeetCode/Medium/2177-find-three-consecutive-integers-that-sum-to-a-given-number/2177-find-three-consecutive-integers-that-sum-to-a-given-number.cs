@@ -1,6 +1,3 @@
 public class Solution {
-    public long[] SumOfThree(long num) {
-        if(num % 3 != 0) return [];
-        return [num/3 -1 , num/3, num/3 +1];
-    }
+    public long[] SumOfThree(long num) => (num % 3 == 0) ? [num/3 -1 , num/3, num/3 +1] : [];
 }
