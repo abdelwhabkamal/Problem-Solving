@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2670-find-the-distinct-difference-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
