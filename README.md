@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2717-semi-ordered-permutation/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
