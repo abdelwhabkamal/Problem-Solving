@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
