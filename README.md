@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0561-array-partition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
