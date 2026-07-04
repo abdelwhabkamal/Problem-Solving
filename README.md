@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0881-boats-to-save-people](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0561-array-partition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0561-array-partition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+| [0881-boats-to-save-people](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -422,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
