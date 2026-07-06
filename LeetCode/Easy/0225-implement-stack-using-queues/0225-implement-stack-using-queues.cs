@@ -6,20 +6,16 @@ public class MyStack {
     
     public void Push(int x) {
         queue.Enqueue(x);
-    }
-    
-    public int Pop() {
-        Queue<int> newQueue = new Queue<int>();
-        while (queue.Count > 1)
-        {
-            newQueue.Enqueue(queue.Dequeue());
+        int n = queue.Count - 1;
+        while(n > 0){
+            queue.Enqueue(queue.Dequeue());
+            n--;
         }
-        int res = queue.Dequeue();
-        queue = newQueue;
-        return res;
     }
     
-    public int Top() => queue.Last();
+    public int Pop() => queue.Dequeue();
+    
+    public int Top() => queue.Peek();
     
     public bool Empty() => (queue.Count == 0) ? true : false;
 }
