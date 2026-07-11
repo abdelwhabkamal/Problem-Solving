@@ -607,4 +607,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3475-dna-pattern-recognition/) | Medium |
 <!---LeetCode Topics End-->
