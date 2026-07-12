@@ -603,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1741-find-total-time-spent-by-each-employee/) | Easy |
