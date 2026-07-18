@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2698-find-the-punishment-number-of-an-integer/) | Medium |
@@ -583,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
