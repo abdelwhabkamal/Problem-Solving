@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1260-shift-2d-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [1260-shift-2d-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [1260-shift-2d-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
