@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -462,11 +463,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0682-baseball-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -625,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-the-latest-login-in-2020](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1890-the-latest-login-in-2020/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3475-dna-pattern-recognition/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
