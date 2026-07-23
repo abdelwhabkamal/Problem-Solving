@@ -1,18 +1,19 @@
 public class StockSpanner {
-    List<int> stock;
-    public StockSpanner() {
-        stock = new List<int>();
+    private Stack<(int price, int cnt)> st;
+
+    public StockSpanner()
+    {
+        st = new Stack<(int, int)>();
     }
     
     public int Next(int price) {
-        stock.Add(price);
-        int res = 0;
-        Stack<int> stack = new(stock);
-        while(stack.Count > 0){
-            if(stack.Pop() <= price ) res ++;
-            else return res;
+        int cnt = 1;
+        while(st.Count > 0 && st.Peek().price <= price){
+            cnt += st.Peek().cnt;
+            st.Pop();
         }
-        return res;
+        st.Push((price , cnt));
+        return cnt;
     }
 }
 
