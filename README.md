@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -632,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 ## Database
 | Problem Name | Difficulty |
