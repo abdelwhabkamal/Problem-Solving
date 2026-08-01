@@ -1,7 +1,7 @@
 public class Solution {
     public bool PredictTheWinner(int[] nums) {
         int n = nums.Length;
-        if(n % 2 == 0) return true;
+        // if(n % 2 == 0) return true;
         int[,] dp = new int[n, n];
         
         for (int i = n-1; i >= 0; i--) {
