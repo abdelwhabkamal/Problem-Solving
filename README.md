@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+| [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -671,4 +675,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
