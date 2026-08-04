@@ -1,13 +1,17 @@
 public class Solution {
     public IList<int> FindMissingElements(int[] nums) {
-        int min = 101;
-        int max = 0;
-        foreach(int num in nums){
-            min = Math.Min(min , num);
-            max = Math.Max(max , num);
+
+        Array.Sort(nums);
+        List<int> res = new List<int>();
+
+        for (int i = 1; i < nums.Length; i++) {
+            int prev = nums[i - 1];
+            int curr = nums[i];
+            for (int j = prev + 1; j < curr; j++) {
+                res.Add(j);
+            }
         }
-        HashSet<int> res = new HashSet<int>(Enumerable.Range(min, max - min + 1));   
-        foreach(int num in nums) res.Remove(num);
-        return res.ToList();   
+
+        return res;
     }
 }
