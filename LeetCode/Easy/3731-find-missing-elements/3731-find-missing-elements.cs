@@ -6,8 +6,8 @@ public class Solution {
             min = Math.Min(min , num);
             max = Math.Max(max , num);
         }
-        IList<int> res = Enumerable.Range(min, max - min + 1).ToList();   
+        HashSet<int> res = new HashSet<int>(Enumerable.Range(min, max - min + 1));   
         foreach(int num in nums) res.Remove(num);
-        return res;   
+        return res.ToList();   
     }
 }
