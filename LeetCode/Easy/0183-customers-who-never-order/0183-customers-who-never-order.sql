@@ -1,3 +1,3 @@
 /* Write your T-SQL query statement below */
-select name as Customers from customers left join orders on customers.id = orders.customerId
-where orders.customerId is null
+select c.name as Customers from customers as c left join orders as o on c.id = o.customerId
+where o.customerId is null
