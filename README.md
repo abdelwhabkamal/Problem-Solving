@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3222-find-the-winning-player-in-coin-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Stack
