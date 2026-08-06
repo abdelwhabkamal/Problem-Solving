@@ -6,7 +6,6 @@ public class Solution {
                 res *= (temp % 10);
                 temp /= 10;
             }
-        Console.WriteLine(res);
         while(res % t != 0){
             temp = ++n;
             res = 1;
