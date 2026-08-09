@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1306-jump-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -652,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Database
@@ -688,9 +693,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
