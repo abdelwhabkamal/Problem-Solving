@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-
 public class Solution {
     public int StoneGameII(int[] piles) {
         int n = piles.Length;
