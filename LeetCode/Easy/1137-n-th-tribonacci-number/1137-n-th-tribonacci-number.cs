@@ -1,10 +1,17 @@
 public class Solution {
     public int Tribonacci(int n) {
-        int[] tri = new int[38];
-        tri[0] = 0;
-        tri[1] = 1;
-        tri[2] = 1;
-        for(int i = 3; i <= n; i++) tri[i] = tri[i-1] + tri[i-2] + tri[i-3];
-        return tri[n];
+        if(n == 0) return 0;
+        if(n < 3) return 1;
+        int f = 0;
+        int s = 1;
+        int t = 1;
+        int res = 2;
+        for(int i = 4; i <= n; i++){
+            f = s;
+            s = t;
+            t = res; 
+            res = f + s + t;
+        } 
+        return res;
     }
 }
