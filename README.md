@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1340-jump-game-v](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -663,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -700,9 +703,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
