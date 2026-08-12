@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2717-semi-ordered-permutation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -549,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
@@ -590,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
