@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0486-predict-the-winner](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
