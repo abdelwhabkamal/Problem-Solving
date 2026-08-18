@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
