@@ -1,20 +1,22 @@
 public class Solution {
     public int MaxNumberOfFamilies(int n, int[][] reservedSeats) {
-        Dictionary<int, HashSet<int>> seats = new();
-        foreach (var r in reservedSeats) {
-            if (!seats.ContainsKey(r[0])) seats[r[0]] = new HashSet<int>();
-            seats[r[0]].Add(r[1]);
+        Dictionary<int, bool[]> rows = new();
+        foreach (var seat in reservedSeats) {
+            if (!rows.ContainsKey(seat[0])) rows[seat[0]] = new bool[11]; 
+            rows[seat[0]][seat[1]] = true;
         }
 
         int groups = n * 2;
-        foreach (var kvp in seats) {
-            bool left = !(kvp.Value.Contains(2) || kvp.Value.Contains(3) || kvp.Value.Contains(4) || kvp.Value.Contains(5));
-            bool right = !(kvp.Value.Contains(6) || kvp.Value.Contains(7) || kvp.Value.Contains(8) || kvp.Value.Contains(9));
-            bool middle = !(kvp.Value.Contains(4) || kvp.Value.Contains(5) || kvp.Value.Contains(6) || kvp.Value.Contains(7));
+        foreach (var kvp in rows) {
+            bool[] reserved = kvp.Value;
 
-            if (left && right) continue;
+            bool left = !(reserved[2] || reserved[3] || reserved[4] || reserved[5]);
+            bool right = !(reserved[6] || reserved[7] || reserved[8] || reserved[9]);
+            bool middle = !(reserved[4] || reserved[5] || reserved[6] || reserved[7]);
+
+            if (left && right) continue;       
             else if (left || right || middle) groups--; 
-            else groups -= 2; 
+            else groups -= 2;                 
         }
         return groups;
     }
