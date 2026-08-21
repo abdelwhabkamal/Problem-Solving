@@ -710,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
 | [0608-tree-node](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0610-triangle-judgement/) | Easy |
