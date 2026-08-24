@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2673-make-costs-of-paths-equal-in-a-binary-tree/) | Medium |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1927-sum-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -709,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Database
@@ -750,12 +755,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
