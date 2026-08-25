@@ -1,9 +1,9 @@
 public class Solution {
     public int CountGoodRectangles(int[][] rectangles) {
-        int min = Math.Min(rectangles[0][0] , rectangles[0][1]);
-        int count = 1;
-        for(int i = 1; i < rectangles.Length; i++){
-            int curr = Math.Min(rectangles[i][0] , rectangles[i][1]);
+        int min = 0;
+        int count = 0;
+        foreach(int[] rec in rectangles){
+            int curr = Math.Min(rec[0] , rec[1]);
             if(min == curr) count++;
             else if(curr > min) {
                 min = curr;
