@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
