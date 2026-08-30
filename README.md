@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
