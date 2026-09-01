@@ -1,20 +1,22 @@
 public class Solution {
     public bool CanPartition(int[] nums) {
-        int target = 0;
-        foreach(int num in nums) target += num;
-        if(target %2 != 0) return false;
-        target /= 2;
+        int sum = nums.Sum();
+        if (sum % 2 != 0) return false;
+        int target = sum / 2;
+
         HashSet<int> set = new();
-        set.Add(nums[nums.Length - 1]);
-        for(int i = nums.Length - 2; i >= 0; i--){
-            HashSet<int> newSet = new();
-            foreach(int s in set){
-                if(nums[i] + s == target || s == target) return true;
-                newSet.Add(nums[i] + s);
-                newSet.Add(s);
+        set.Add(0); 
+
+        foreach (int num in nums) {
+            HashSet<int> newSet = new(set);
+            foreach (int s in set) {
+                int newSum = s + num;
+                if (newSum == target) return true;
+                newSet.Add(newSum);
             }
             set = newSet;
         }
+
         return false;
     }
 }
