@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
