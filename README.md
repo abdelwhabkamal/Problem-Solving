@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1927-sum-game](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/abdelwhabkamal/Problem-Solving/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
