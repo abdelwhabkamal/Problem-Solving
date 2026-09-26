@@ -9,14 +9,14 @@ public class Solution {
         while(indx < s.Length){
             if(s[indx] != '(') res.Append(s[indx]);
             else{
-                indx++;
-                StringBuilder sub = new();
-                while(s[indx] != ')'){
-                    sub.Append(s[indx]);
-                    indx++;
+                int j = indx + 1;
+                while (s[j] != ')') {
+                    j++;
                 }
-                if(dict.ContainsKey(sub.ToString())) res.Append(dict[sub.ToString()]);
+                string sub = s.Substring(indx + 1, j - indx - 1);
+                if(dict.ContainsKey(sub)) res.Append(dict[sub]);
                 else res.Append('?');
+                indx = j;
             }
             indx++;
         }
